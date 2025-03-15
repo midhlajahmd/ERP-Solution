@@ -13,7 +13,7 @@ A modern Enterprise Resource Planning (ERP) solution built with React, TypeScrip
 - [Authentication](#authentication)
 - [Sales Management](#sales-management)
 
-## Features
+## Features  
 
 - User Authentication (Register, Login, Role-based access)
 - Sales Management
